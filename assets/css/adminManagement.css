@@ -1,0 +1,30 @@
+/* this only for admin management control  */
+
+/* styling admin body  */
+#AdminBodyContainer{
+    width: 95%;
+    display: flex;
+    flex-direction: column;
+    align-content: stretch;
+    margin: auto;
+}
+
+/* admin btn syling  */
+#AdminBodyContainer button{
+    width: 20%;
+    margin-bottom: 3%;
+}
+
+/* if new emp create */
+#newEmpCreation{
+    margin-top: 1%;
+}
+
+/* selectio of emp  */
+#MarkEmp{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: auto;
+    /* margin-top: -10%; */
+}

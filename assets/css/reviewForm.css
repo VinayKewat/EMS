@@ -1,0 +1,16 @@
+
+/* review option and conatiner  */
+#ReviewContainer{
+    width: 60%;
+    margin: auto;
+    text-align: center;
+    margin-top: 3%;
+    margin-bottom: 5%;
+}
+
+/*review optn*/
+#reviewOptionsContainer{
+    margin-top: 3%;
+    width: 60%;
+    margin: auto;
+}
